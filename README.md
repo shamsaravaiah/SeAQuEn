@@ -1,1 +1,1 @@
-# SeAQuEn
+# SeAQuEn - Self-Adaptive Quantization Engine
